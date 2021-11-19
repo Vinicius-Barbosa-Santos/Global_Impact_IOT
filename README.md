@@ -28,7 +28,7 @@ Aplicamos a normalização no excel, e como justificativa os calculos estão sen
 
 Atributos Categóricos
 
-Escolha da escala de 0 a 1 um valor não é mais impotante do que o outro para o processamento de dados.
+Escolha da escala de 0 a 1 um valor não é mais importante do que o outro para o processamento de dados.
 
 Algoritmo utilizado 
 
