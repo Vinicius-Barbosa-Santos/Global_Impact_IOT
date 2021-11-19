@@ -59,6 +59,9 @@ Ou qualquer outra tabulação:
  
 Adicione o link para assistir ao vídeo do projeto funcionando.
 
+## Link do python collab
+
+https://colab.research.google.com/drive/1Z8V2WOcxvy1QPXS8mIS6PDHl7RO8qoHo#scrollTo=IlhoGQY_1pVb
  
 ### Referências 
  
