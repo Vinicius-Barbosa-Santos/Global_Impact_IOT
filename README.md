@@ -56,6 +56,8 @@ Ou qualquer outra tabulação:
 - [x] Instagram
  
 ## Link de vídeo demonstração
+
+https://www.youtube.com/watch?v=51yUBIjDoo0
  
 Adicione o link para assistir ao vídeo do projeto funcionando.
 
