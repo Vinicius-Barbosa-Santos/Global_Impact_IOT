@@ -45,8 +45,6 @@ Tecnologias Utilizadas
  
 Python
  
-# Challenge Sprint 4
- 
 Explique como rodar o seu projeto.
  
 Instale o python na máquina local ou utilize o google colab para rodar a aplicação, baixe os arquivos de normalização e suba no colab.
