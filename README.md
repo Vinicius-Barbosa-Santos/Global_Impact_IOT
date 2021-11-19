@@ -17,8 +17,8 @@ VINICIUS RODRIGUES ALVES                   RM: 82077
  
 ## Objetivo / descrição do Projeto
  
-Desenvolver uma aplicação para classificação de fungos, que serão processadas e treinadas e testadas para definir o resultado do objeto, os dados serão recebidos pelo dataset
-que estará na planilha, estes dados estão definindo os valores de máxima, mínima e o apliacando a normalização para um intervalo de 0 a 1
+Desenvolver uma aplicação para classificação de fungos, que serão processadas, treinadas e testadas para definir o resultado do objeto, os dados serão recebidos pelo dataset
+que estará na planilha, estes dados estão definindo os valores de máxima e mínima, aplicando a normalização para um intervalo de 0 a 1
 
 #Justificava 
 
